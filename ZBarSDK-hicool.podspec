@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZBarSDK-hicool"
-  s.version      = "1.1"
+  s.version      = "0.0.1"
   s.summary      = "ZBarSDK-hicool."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     ZBarSDK-hicool is a library
                    DESC
 
-  s.homepage     = "http://github.com/jindegege/ZBarSDK-hicool"
+  s.homepage     = "https://github.com/jindegege/ZBarSDK-hicool"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/sundayliu/ZBarSDK-sn.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/jindegege/ZBarSDK-hicool.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
